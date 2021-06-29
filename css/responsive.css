@@ -1,0 +1,47 @@
+/* @media only screen and(max-width: 1200px){ */
+    /* .card2{
+        background-color: crimson;
+    }
+    nav{
+        flex-direction: column;
+    }
+  .slider img{
+      height: 57vh;
+  } 
+  .logo{
+      justify-content: center;
+      margin: 12px 0;
+  } 
+  nav ul{
+      justify-content: center;
+  }
+  .search{
+      justify-content: center;
+  }
+  nav ul{
+      height: 34px;
+  }
+} */
+@media(max-width:800px){
+    nav{
+        flex-direction: column;
+    }
+  .slider img{
+      height: 57vh;
+     width: 81vw;
+  } 
+  .logo{
+      justify-content: center;
+      margin: 12px 0;
+  } 
+  nav ul{
+      justify-content: center;
+  }
+  .search{
+      justify-content: center;
+  }
+  nav ul{
+      height: 34px;
+  }
+  
+}
